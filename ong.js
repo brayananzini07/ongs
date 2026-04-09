@@ -99,7 +99,6 @@ form.addEventListener("submit", function (e) {
     alert("Você indicou falta de condições financeiras.");
     return;
   }
-ghf
-  
+
   alert("Formulário enviado com sucesso!");
 });

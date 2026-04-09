@@ -1,7 +1,15 @@
-body{
-background-image: url("assets/image.png");
-background-repeat:no-repeat;
-background-size:cover;
-background-position: 0%;
+body {
+    display: flex;
+    flex-direction: column;
+    background-image: url("assets/image\ copy.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    text-align: center;
 }
 
+form{
+    background-color: rgba(255, 255, 255, 0.425);
+    margin: 10%;
+}
